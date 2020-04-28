@@ -8,3 +8,6 @@ In the project directory, you can run:
 And then, you can run:
 
 ### `node server/server.js`
+
+This application was deployed on Heroku, at the following link:
+[Covid19 Tracker App](https://covid19tracker-app.herokuapp.com)
