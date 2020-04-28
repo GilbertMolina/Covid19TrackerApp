@@ -7,4 +7,4 @@ In the project directory, you can run:
 
 And then, you can run:
 
-### `npm start`
+### `node server/server.js`
